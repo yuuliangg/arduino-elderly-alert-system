@@ -61,7 +61,6 @@ arduino-smart-elderly-alert-system/
 │   └── 04-prototype-photo.png
 ├── docs/
 │   ├── design_notes.md
-│   ├── resume_bullets.md
 │   └── testing_notes.md
 └── report/
     └── smart-elderly-alert-system-case-study.pdf
